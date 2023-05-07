@@ -11,8 +11,7 @@ This is where I host my internet projects.
 4. [H5P Standalone hosted on GitHub Pages example site](https://h5p-standalone.44444444.xyz)
 5. [Paraphrased Works](https://paraphrase.44444444.xyz)
 6. [Test page for setup-cloudflared](https://setup-cloudflared.44444444.xyz)
-7. [SOCKS5 Proxy Actions](https://socks5-proxy-actions.44444444.xyz)
-8. vlmcsd KMS Emulator: `kms.44444444.xyz`
+7. vlmcsd KMS Emulator: `kms.44444444.xyz`
 
 ## Why here?
 Because this domain is a 1.111B Class domain on the .xyz TLD where the price is just 99¢ per year, every year.
