@@ -13,7 +13,6 @@ This is where I host my internet projects.
 6. [Test page for setup-cloudflared](https://setup-cloudflared.44444444.xyz)
 7. vlmcsd KMS Emulator: `kms.44444444.xyz`
 8. [Anim Mouse's CDN](https://cdn.44444444.xyz)
-9. yt-dlp POT Provider server: `https://yt-dlp-pot.44444444.xyz`
 
 ## Why here?
 Because this domain is a 1.111B class domain on the .xyz TLD where the price is just 99¢ per year, every year.
